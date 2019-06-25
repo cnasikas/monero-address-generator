@@ -2058,11 +2058,6 @@ strip-json-comments@2.0.1, strip-json-comments@~2.0.1:
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
   integrity sha1-PFMZQukIwml8DsNEhYwobHygpgo=
 
-supercop.js@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/supercop.js/-/supercop.js-2.0.1.tgz#1fcfe9fc5ff6e42aef4e3683636c8cb891594b18"
-  integrity sha1-H8/p/F/25CrvTjaDY2yMuJFZSxg=
-
 supports-color@6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-6.0.0.tgz#76cfe742cf1f41bb9b1c29ad03068c05b4c0e40a"
