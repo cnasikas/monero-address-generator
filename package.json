@@ -16,7 +16,8 @@
   "scripts": {
     "serve": "node index.js",
     "start": "nodemon --watch . --watch index.js",
-    "lint": "standard"
+    "lint": "standard",
+    "test": "mocha"
   },
   "engines": {
     "node": ">=10"
