@@ -33,7 +33,11 @@
     "lodash": "^4.17.11"
   },
   "devDependencies": {
+    "@xmr-core/xmr-constants": "^0.0.8",
+    "@xmr-core/xmr-crypto-utils": "^0.0.8",
     "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bn": "^0.1.1",
     "mocha": "^6.1.4",
     "nodemon": "^1.18.11"
   }
