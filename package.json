@@ -31,7 +31,7 @@
     "@xmr-core/xmr-fast-hash": "^0.0.8",
     "bn.js": "^4.11.8",
     "elliptic": "^6.4.1",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@xmr-core/xmr-constants": "^0.0.8",
